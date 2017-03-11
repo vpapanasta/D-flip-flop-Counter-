@@ -1,0 +1,19 @@
+#
+analogLib vdc symbol
+V0
+#
+analogLib cap symbol
+C0
+#
+analogLib vpulse symbol
+V3
+V6
+#
+MyDesignLib myNAND symbol
+I0
+#ISCELL
+analogLib vdd symbol
+I1
+#ISCELL
+analogLib gnd symbol
+I2

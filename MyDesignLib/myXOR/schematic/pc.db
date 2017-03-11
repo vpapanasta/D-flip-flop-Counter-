@@ -1,0 +1,18 @@
+#
+MyDesignLib myInv symbol
+I4
+I3
+#
+MyDesignLib myNAND symbol
+I2
+I1
+I0
+#ISCELL
+basic ipin symbol
+PIN2
+PIN1
+PIN0
+PIN3
+#ISCELL
+basic opin symbol
+PIN4

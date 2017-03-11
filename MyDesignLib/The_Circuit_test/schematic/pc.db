@@ -1,0 +1,26 @@
+#
+MyDesignLib 8Inv_Loader symbol
+I7
+I8
+I6
+I5
+#
+analogLib vpulse symbol
+V2
+V0
+#
+analogLib vdc symbol
+V1
+#
+MyDesignLib The_Circuit symbol
+I0
+#ISCELL
+analogLib vdd symbol
+I9
+I11
+I1
+#ISCELL
+analogLib gnd symbol
+I10
+I4
+I3

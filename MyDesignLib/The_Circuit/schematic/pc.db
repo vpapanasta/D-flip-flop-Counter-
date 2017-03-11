@@ -1,0 +1,48 @@
+#
+MyDesignLib myAND symbol
+I14
+I13
+I8
+I7
+#
+MyDesignLib myInv symbol
+I4
+#
+MyDesignLib myXOR symbol
+I16
+I10
+I3
+I2
+#
+MyDesignLib myDFF symbol
+I18
+I12
+I6
+I1
+#
+MyDesignLib myMUX symbol
+I17
+I15
+I11
+I9
+I5
+I0
+#ISCELL
+basic ipin symbol
+PIN14
+PIN13
+PIN11
+PIN9
+PIN7
+PIN6
+PIN4
+PIN3
+PIN2
+PIN1
+PIN0
+#ISCELL
+basic opin symbol
+PIN12
+PIN10
+PIN8
+PIN5

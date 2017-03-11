@@ -1,0 +1,20 @@
+#
+analogLib cap symbol
+C0
+#
+analogLib vdc symbol
+V2
+#
+analogLib vpulse symbol
+V3
+V1
+V0
+#
+MyDesignLib myMUX symbol
+I0
+#ISCELL
+analogLib vdd symbol
+I1
+#ISCELL
+analogLib gnd symbol
+I2
