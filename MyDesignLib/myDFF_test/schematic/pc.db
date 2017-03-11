@@ -1,0 +1,20 @@
+#
+analogLib cap symbol
+C2
+C0
+#
+analogLib vpulse symbol
+V5
+V1
+#
+analogLib vdc symbol
+V0
+#
+MyDesignLib myDFF symbol
+I0
+#ISCELL
+analogLib vdd symbol
+I1
+#ISCELL
+analogLib gnd symbol
+I2
